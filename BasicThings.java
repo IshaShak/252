@@ -1,5 +1,3 @@
-
-
 public class BasicThings {
 	int a = 120;
 	
