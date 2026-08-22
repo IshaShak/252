@@ -10,7 +10,7 @@ public class Method {
 public static void main(String[] args) {
     int mul=multiplyNumbers(5,10);
     System.out.println("the mul is:"+ mul);
-    name("trivi");
+    name("sufiyy");
 
 }
 
